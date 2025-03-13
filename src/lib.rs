@@ -365,7 +365,6 @@
 
 #![no_std]
 #![doc(html_root_url = "https://docs.rs/cxx/1.0.144")]
-#![cfg_attr(docsrs, feature(doc_cfg))]
 #![deny(
     improper_ctypes,
     improper_ctypes_definitions,
